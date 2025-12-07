@@ -17,3 +17,6 @@ button{margin-top:12px;padding:8px 12px;border:none;background:#0b76ef;color:whi
 .slots{list-style:none;padding:0;display:flex;gap:10px;flex-wrap:wrap}
 .slots li{background:#f0f6ff;padding:6px 10px;border-radius:4px}
 .error{color:#b00020;background:#ffe9e9;padding:8px;margin-top:8px;border-radius:4px}
+/* Field-level validation styles */
+.field-error{color:#b00020;font-size:0.95em;margin-top:6px}
+.input-error{border:1px solid #b00020;box-shadow:0 0 0 3px rgba(176,0,32,0.06)}
